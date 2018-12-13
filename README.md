@@ -84,7 +84,7 @@ Les **logogrammes** sont la meilleure option pour nous.
 ### Commencement
 
 Pour que notre langage soit complet, il nous faut construire beaucoup de choses. Mais voici la liste des choses les plus importantes, celles qu'il
-est indispensable d'exprimer pour commencer :
+est indispensable d'exprimer pour débuter :
 - l'identité : diffencier 'moi' du reste, 'toi' de 'lui' etc, servira aussi à indiquer la possession
 - le temps : nous devons pouvoir évoquer le futur, le passé et le présent
 - les champs lexicaux : utiliser des sémagrammes (logogrammes qui indiquent le champ lexical) est un moyen simple et efficace de limiter le nombre de mots
