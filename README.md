@@ -12,11 +12,11 @@ Le langage est un moyen de communication. il peut être écrit, parlé, ou les d
 
 Les langages parlés sont faits de phonèmes, consistuants élémentaires.
 
-Les langages écrits font usage de caractères, appelés les graphèmes. Ces graphèmes peuvent prendre deux formes :
+Les langages écrits font usage de caractères, appelés graphèmes. Ces graphèmes peuvent prendre deux formes :
 1. les **lettres**, qui mises côte à côte donnent naissance à des mots
 2. les **logogrammes** divisés en deux catégories :
-	1. les idéogrammes qui représentent les éléments abstrait de la réalité
-	2. les pictogrammes qui représentent les élements concrêts de la réalité
+	1. les idéogrammes qui représentent les éléments abstraits de la réalité
+	2. les pictogrammes qui représentent les élements concrets de la réalité
 
 ### Quelques considérations
 
@@ -47,7 +47,7 @@ On peut considérer que les émotions sont un langage à part entière dont le s
 Apoka dispose du pouvoir de l'empathie, la reconnaissance et le ressenti des émotions des autres individus. Son langage sera donc celui qui décrit
 fidèlement les émotions qu'elle ressent.
 
-Ce sera notre base pour commencer.
+Commençons.
 
 ### Représentation
 
@@ -70,5 +70,8 @@ Attardons nous sur les avantages et inconvénients de chaque système d'écritur
 | | Lettres | Logogrammes |
 | --- | --- | --- |
 | Avantages | Plusieurs lettres mises bout à bout forment des mots. On peut ainsi accoler un nombre arbitrairement grand de lettres, rendant le nombres de mots potentiels infini, même avec un petit nombre de caractères. De plus, chaque lettre indique sa prononciation. Autrement dit, qui sait parler sait écrire (même approximativement) et qui sait écrire sait parler. | Les pictogrammes représentent les choses de la réalité sous forme de dessin. Puisque chaque caractères à un sens, on peut fabriquer des nouveaux mots sans avoir besoin de les expliquer, les individus qui les découvriront pourront deviner le sens approximatif. |
-| Inconvénients | Au contraire des logogrammes, les lettres n'ont aucun sens prises seules. Par conséquent pour inventer un nouveau mot, il faut le fabriquer, puis il faut propager sa définition afin qu'il puisse être utilisé. | L'avantage des logogrammes qui était que chaque symbole représente un élément de la réalité est aussi un inconvénient puisque chaque élement de la réalité doit posséder son propre signe, il faut donc des milliers de signes différents. C'est la raison pour laquelle plus de 50 000 symboles ont été recensé en japonais (qui emprunte ses caractères au chinois, les sinnogrammes). Le deuxième inconvénient des langages à base de logogrammes est que voir les mots écrits n'indique pas comment les prononcer. Il faut donc apprendre le langage deux fois, d'abord comment l'écrire, puis comment le prononcer. C'est ce qui explique la différence de difficulté d'apprentissage entre le japonais parlé (facile à apprendre) et le japonais écrit (difficile à apprendre, certainement impossible à maitriser parfaitement, même les japonais ne connaissent pas tous les symboles).
+| Inconvénients | Au contraire des logogrammes, les lettres n'ont aucun sens prises seules. Par conséquent pour inventer un nouveau mot, il faut le fabriquer, puis il faut propager sa définition afin qu'il puisse être utilisé. | L'avantage des logogrammes qui était que chaque symbole représente un élément de la réalité est aussi un inconvénient puisque chaque élement de la réalité doit posséder son propre signe, il faut donc des milliers de signes différents. C'est la raison pour laquelle plus de 50 000 symboles ont été recensés en japonais (qui emprunte ses caractères au chinois, les sinnogrammes). Le deuxième inconvénient des langages à base de logogrammes est que voir les mots écrits n'indique pas comment les prononcer. Il faut donc apprendre le langage deux fois, d'abord comment l'écrire, puis comment le prononcer. C'est ce qui explique la différence de difficulté d'apprentissage entre le japonais parlé (facile à apprendre) et le japonais écrit (difficile à apprendre, certainement impossible à maitriser parfaitement, même les japonais ne connaissent pas tous les symboles).
 
+Il faut choisir.
+
+Notre langage n'a pas pour vocation d'être prononcé, simplement d'être écrit.
