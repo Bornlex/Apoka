@@ -81,4 +81,16 @@ demander un minimum d'investissement en temps d'apprentissage. On doit pouvoir d
 
 Les **logogrammes** sont la meilleure option pour nous.
 
-### 
+### Commencement
+
+Pour que notre langage soit complet, il nous faut construire beaucoup de choses. Mais voici la liste des choses les plus importantes, celles qu'il
+est indispensable d'exprimer pour commencer :
+- l'identité : diffencier 'moi' du reste, 'toi' de 'lui' etc, servira aussi à indiquer la possession
+- le temps : nous devons pouvoir évoquer le futur, le passé et le présent
+- les champs lexicaux : utiliser des sémagrammes (logogrammes qui indiquent le champ lexical) est un moyen simple et efficace de limiter le nombre de mots
+
+Ces notions sont l'armature du langage. Il suffira ensuite de générer petit à petit du vocabulaire pour l'enrichir.
+
+Nous allons construire les premiers logogrammes de notre langue naissante. N'existant pas encore, les ordinateurs ne peuvent pas l'encoder.
+
+Tu dois te référer au cahier à partir de maintenant.
