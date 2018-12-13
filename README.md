@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Pas d'introduction.
+"Il ne suffit pas de parler, il faut parler juste."
+
+William Shakespeare
 
 ## Le langage
 
@@ -74,4 +76,9 @@ Attardons nous sur les avantages et inconvénients de chaque système d'écritur
 
 Il faut choisir.
 
-Notre langage n'a pas pour vocation d'être prononcé, simplement d'être écrit.
+Notre langage n'a pas pour vocation d'être prononcé, simplement d'être écrit. N'étant pas l'objet de l'ouvrage dans lequel il se trouvera, il doit
+demander un minimum d'investissement en temps d'apprentissage. On doit pouvoir déduire le sens des phrases le plus efficacement possible.
+
+Les **logogrammes** sont la meilleure option pour nous.
+
+### 
